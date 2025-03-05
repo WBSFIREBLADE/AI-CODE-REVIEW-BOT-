@@ -1,0 +1,9 @@
+# Ignore node modules and environment files
+frontend/node_modules/
+backend/__pycache__/
+backend/db.sqlite3
+backend/.env
+.env
+Dockerfile
+docker-compose.yml
+postgres_data/
