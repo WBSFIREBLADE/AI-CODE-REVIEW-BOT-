@@ -7,3 +7,4 @@ backend/.env
 Dockerfile
 docker-compose.yml
 postgres_data/
+.env
